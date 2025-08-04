@@ -1,0 +1,3 @@
+particleCountDyMFoam.C
+
+EXE = $(FOAM_APPBIN)/particleCountDyMFoam
